@@ -1,0 +1,8 @@
+# Nmap 7.95 scan initiated Mon May 26 16:22:18 2025 as: nmap -sS -oN scan.txt 192.168.83.37
+Nmap scan report for 192.168.83.37
+Host is up (0.0018s latency).
+Not shown: 999 closed tcp ports (conn-refused)
+PORT STATE SERVICE
+53/tcp open domain
+
+# Nmap done at Mon May 26 16:22:18 2025 -- 1 IP address (1 host up) scanned in 0.40 seconds
